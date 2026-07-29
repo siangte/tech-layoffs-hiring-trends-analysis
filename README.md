@@ -40,6 +40,7 @@ The project aims to answer common questions from job seekers, including:
 
 ## Dataset
 **Source:** Kaggle – Tech Layoffs & Hiring Trends
+https://www.kaggle.com/datasets/amaymishra11/tech-layoffs-and-hiring-trends-2026
 
 The dataset includes:
 - Technology companies
