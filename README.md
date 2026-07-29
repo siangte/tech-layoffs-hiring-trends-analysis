@@ -66,7 +66,7 @@ The dataset includes:
 
 Example:
 
-https://public.tableau.com/views/YourDashboardName/Dashboard
+https://public.tableau.com/views/AnalyzingTechIndustryLayoffsandHiringTrend/AnalyzingTechIndustryLayoffsandHiringTrends?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -91,15 +91,7 @@ tech-layoffs-hiring-trends-analysis/
 
 ---
 
-## Dashboard Preview
 
-*(Add a screenshot of your Tableau dashboard here.)*
-
-Example:
-
-![Dashboard Preview](images/dashboard-preview.png)
-
----
 
 ## Author
 
